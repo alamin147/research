@@ -1,0 +1,53 @@
+
+https://ieeexplore.ieee.org/abstract/document/8473322 44
+https://ieeexplore.ieee.org/abstract/document/4803079 157
+https://ieeexplore.ieee.org/abstract/document/7567333 85
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.10365 144
+https://www.sciencedirect.com/science/article/abs/pii/S0168169919326997 279
+https://ieeexplore.ieee.org/abstract/document/8847623 136
+https://ieeexplore.ieee.org/abstract/document/9068096 110
+
+Author name:
+Hypothesis:
+Gap:
+Finding:
+Method:
+result:
+Dataset:
+
+
+
+
+//////////////////////////////1////////////////////////////////
+
+
+
+Title: Detection and classification of rice plant diseases
+
+Digital code: DOI 10.3233/IDT-170301
+https://content.iospress.com/articles/intelligent-decision-technologies/idt301
+
+
+Author name: Harshadkumar B. Prajapati , Jitesh P. Shah and Vipul K. Dabhi
+
+
+Hypothesis: Build a better system by using Machine
+Learning and Image Processing to detect and classify diseases of
+the rice plant.
+
+Gap:
+Finding:
+
+Method: There are four method used here.They removed image background. Then K-means clustering for centroid feeding. Then they removed green pixels in disease portion using thresholding technique. And finally Support vector Machine (SVM) for multi classification. Then they used 5 and 10 fold cross validation for more precise accuracy.
+
+
+result: They got 83.80% on training dataset and 88.57% on test dataset.
+
+Dataset:
+
+
+
+
+
+
+
